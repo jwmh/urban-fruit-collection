@@ -12,10 +12,9 @@ our urban fruit tree project
 ## solutions - multiparts: ##
 1. catchers
 2. bins
-3a. signs (physical)
-3b. tech/apps (virtual)
-
-4. distribution? (optional?unsure)
+3. signs (IRL physical)
+4. tech/apps (virtual)
+5. distribution? (optional?unsure)
 
 ---
 ### solution descriptions: ###
