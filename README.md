@@ -36,7 +36,7 @@ fruit is collected & kept in bins
 (with #1, automatically; or without #1, then manually) 
 
 
-3a. signs (physical)
+3. signs (physical)
 a la community notice boards
 standing up on pedestal/podium
 printed paper vs engraved?
@@ -109,10 +109,19 @@ own website?
 own app?
 others?
 
+5. distribution
+to whom?
+where?
+how?
+
+neighbors?
+oregon food bank / urban gleaners / food not bombs / free food porch(es)?
+in stores(??)
+at local farmers markets?
 ---
 ## poss. benefits ##
 
-2. benefit (test if accurate):
+.2. benefit (test if accurate):
 improves fruit attractiveness => likelihood of fruit being taken, consumed by passerby
 eases/simplifies, accelerates redistribution
 
